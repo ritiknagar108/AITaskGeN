@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'https://aitaskgen.onrender.com'
+  baseURL: import.meta.env.VITE_API_URL
 });
 
 // Add token to requests
