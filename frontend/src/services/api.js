@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'https://aitaskgen-1.onrender.com'
+  baseURL: 'https://aitaskgen.onrender.com'
 });
 
 // Add token to requests
