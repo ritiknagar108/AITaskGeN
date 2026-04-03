@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'https://ai-task-ge-n-ourv.vercel.app/'
+  baseURL: 'https://aitaskgen-1.onrender.com'
 });
 
 // Add token to requests
