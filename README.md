@@ -317,3 +317,4 @@ This project is open source and available for educational purposes.
 **Status:** ✅ Production Ready
 **Last Updated:** April 2, 2026
 **Servers Running:** Backend (5000) + Frontend (5178)
+# AITaskGeN
